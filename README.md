@@ -11,7 +11,7 @@ Berikut adalah langkah-langkah untuk menjalankan chatbot **EduMate** di lokal ko
 Pertama, clone repository ini ke komputer kamu:
 
 ```bash
-git clone https://github.com/username/edumate-chatbot.git
+git clone https://github.com/Sandy-Sanjaya/Chatbot-EduMate.git
 cd edumate-chatbot
 ```
 
