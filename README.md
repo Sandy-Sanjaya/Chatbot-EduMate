@@ -37,5 +37,5 @@ GOOGLE_API_KEY=your_google_api_key
 ## 5️⃣ Jalankan Aplikasi
 Setelah semua siap, jalankan dengan perintah:
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
